@@ -15,17 +15,17 @@ A fully customized architectural diagram has been generated for this project.
 ---
 
 ## 🧠 Detected Architecture Type
-**None**
+**backend_service**
 
 ---
 
 ## 🛠 Technologies Used
 
 ### **Languages**
-None
+java
 
 ### **Frameworks**
-None
+springboot
 
 ### **Machine Learning / AI Stack**
 None
@@ -34,7 +34,7 @@ None
 None
 
 ### **Cloud Providers / Services**
-None
+azure
 
 ### **DevOps / CI/CD**
 None
@@ -62,7 +62,7 @@ All files are saved under the project's **diagram/** directory.
 ---
 
 ## 📦 Source Code Analysis
-- Total scanned files: **0**
+- Total scanned files: **6**
 - Analysis is based on deep source code scanning (not metadata).
 
 ---
