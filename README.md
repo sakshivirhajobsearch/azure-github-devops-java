@@ -19,7 +19,7 @@ No description provided.
 
 ## 🧠 Tech Stack Used
 
-- **Detected Technologies:** Java (Maven/Gradle), Spring Boot, Kubernetes / K8s, Azure
+- **Detected Technologies:** Azure, Java
 - **GitHub Topics:** None
 
 ---
